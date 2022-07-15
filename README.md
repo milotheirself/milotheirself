@@ -12,7 +12,7 @@ I am a student pursuing a degree in software engineering. In general, I'm on Git
 
 <br>
 
-**Some little projects –**
+**Open projects –**
 
 `📖 Booklet` GitHub workflow for printable documentation; in preparation for my finals.
 
