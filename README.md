@@ -20,5 +20,5 @@ I am a student pursuing a degree in software engineering. In general, I'm on Git
 
 [applic:booklet]: https://github.com/applicdev/booklet
 [applic:inspect]: https://github.com/applicdev/inspect
-[people:abbey]: https://applic.dev/people/abbey
-[people:milo]: https://applic.dev/people/milo
+[people:abbey]: https://github.com/abbeysside
+[people:milo]: https://github.com/milotheirself
