@@ -8,7 +8,7 @@ I am a student pursuing a degree in software engineering. In general, I'm on Git
 
 **Commonly working with/in –**
 
-`🦕 Deno` `🍵 Node.js` `🧶 TypeScript` `🪡 LitElement` `🔥 Firebase` `🫖 Puppeteer`
+`🦕 Deno` `🍵 Node.js` `🧶 TypeScript` `🪡 LitElement` `🪸 Redux` `🔥 Firebase` `🫖 Puppeteer`
 
 <br>
 
