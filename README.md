@@ -6,7 +6,7 @@ Hi there! Thanks for stopping by my profile page 👋
 
 ### My go-to tool kit
 
-Both Rust and TypeScript are at the moment what I use most in my projects. I prefer the low-level control and strict typing that Rust gives me on the desktop with Bevy and Tauri, and TypeScript gives me in almost anything that relates to the web. In particular, I find that web-based applications are incredibly powerful, even without fancy frameworks, and I try to demonstrate this in my own projects.
+Both Rust and TypeScript are at the moment what I use most in my projects. I prefer the low-level control and strict typing that Rust gives me on the desktop with Bevy and Tauri, and the same for TypeScript in almost anything related to the web. In particular, I find that web-based applications are incredibly powerful even without fancy frameworks, and I try to demonstrate this in my own projects.
 
 <br>
 
