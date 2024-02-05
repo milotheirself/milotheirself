@@ -12,7 +12,9 @@ Both Rust and TypeScript are at the moment what I use most in my projects. I pre
 
 *Frequently working with/in –*
 
-`🦕 Deno & Deno KV` `☄️ Motion Canvas` `🐙 Github Actions` `🧶 TypeScript` `🪡 Lit & LitElement` `⚙️ Rust` `🔗 Tauri` `🕹️ Bevy` 
+`🦕 Deno & Deno KV` `☄️ Motion Canvas` `🐙 Github Actions` `🔗 Tauri` `🕹️ Bevy` `🪡 Lit & LitElement` 
+
+<!-- `⚙️ Rust` `🧶 TypeScript` -->
 
 <br>
 
