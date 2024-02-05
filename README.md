@@ -1,50 +1,43 @@
 <br>
 
-Hoi there, [👋][people:milo]
-
-Thank you for visiting my profile page - I am a recently graduated software engineer with a passion for assistive technologies and the design principles that underpin them. I primarily use GitHub to assist others with their personal projects, to provide a public platform for my own work, and to utilize GitHub's project management features.
+Hi there! Thanks for stopping by my profile page 👋
 
 <br>
 
-**Frequently working with/in –**
+### My tool kit
 
-`🦕 Deno` `🔗 Tauri` `🍵 Node.js` `⚙️ Rust` `🧶 TypeScript` `🪡 Lit & LitElement` `🪸 Redux` `🔥 Firebase` `🫖 Puppeteer`
+Both Rust and TypeScript are at the moment what I use most in my projects. I prefer the low-level control and strict typing that Rust gives me on the desktop with Bevy and Tauri, and TypeScript gives me in almost anything that relates to the web. In particular, I find that web-based applications are incredibly powerful, even without fancy frameworks, and I try to demonstrate this in my own projects.
 
 <br>
 
-**Actively working on –**
+*Frequently working with/in –*
 
-`📖 Booklet`  *WIP*
+`🦕 Deno & Deno KV` `☄️ Motion Canvas` `🐙 Github Actions` `🧶 TypeScript` `🪡 Lit & LitElement` `⚙️ Rust` `🔗 Tauri` `🕹️ Bevy` 
+
+<br>
+
+*Have worked intensively with/in –*
+
+`🍵 Node.js` `🪸 Redux` `🫖 Puppeteer` `🔥 Firebase` `🧪 Polymer`
+
+<br>
+
+
+### What I've been caught up in
+
+*Working on my own project –*
 
 `💻 Compute`  *WIP*
 
-<!----
-[`📁 Gallery`][project:apps-gallery]  [...]
-
-[`🔬 Inspect`][project:apps-inspect]  A long-running image processing project [@Amaya][people:amaya] and me have been working on.
-!---->
-
-<!----
 <br>
 
-**Worked on the past –**
-!---->
+*And in projects I am involved in –*
 
-<!--
-<br>
+`📖 Booklet`  *WIP*
 
-**How you can help me improve my work –** 
+`🔬 Inspect`  *WIP*
 
-In general, feedback or even an introduction to who you are and what you do with the tools that [Amaya][people:amaya] and me made would be of the most help to us. When we know who uses them and in what types of workflows, it has a large impact on how we develop our tools to make them behave the way you expect them to. The same can be said for accessibility. We'd love to hear from anyone who uses assistive technology alongside our tools or has additional needs and has suggestions for improvement in any form. You can [get in touch with us directly][social:feedback] or via the feedback tab in one of the tools it relates to.
---> 
-
-[social:feedback]: https://discord.gg/69dWV4DXF2
-[social:sponsors]: https://github.com/sponsors/milotheirself
-
-[project:apps-booklet]: https://applic.dev/booklet
-[project:apps-compute]: https://applic.dev/compute
-[project:apps-gallery]: https://applic.dev/gallery
-[project:apps-inspect]: https://applic.dev/inspect
+`📁 Gallery`  *WIP*
 
 [people:amaya]: https://github.com/amaya-brouwers
 [people:milo]: https://github.com/milotheirself
