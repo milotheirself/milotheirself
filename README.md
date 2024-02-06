@@ -6,34 +6,34 @@ Hi there! Thanks for stopping by my profile page 👋
 
 ### My go-to tool kit
 
-Both Rust and TypeScript are at the moment what I use most in my projects. I prefer the low-level control and strict typing that Rust gives me on the desktop with Bevy and Tauri, and the same for TypeScript in almost anything related to the web. In particular, I find that web-based applications are incredibly powerful even without fancy frameworks, and I try to demonstrate this in my own projects.
+At the moment, both Rust and TypeScript find the most use in my projects. I prefer the low-level control and strict typing that Rust gives me on the desktop with Bevy and Tauri, and the same for TypeScript in anything related to the web. I see web-based applications in particular as incredibly powerful, and I try to demonstrate this through my projects.
 
 <br>
 
-*Frequently working with/in –*
+*Working with/in –*
 
-`🦕 Deno & Deno KV` `☄️ Motion Canvas` `🐙 Github Actions` `🔗 Tauri` `🕹️ Bevy` `🪡 Lit & LitElement` 
+`🦕 Deno & Deno KV` `☄️ Motion Canvas` `🐙 Github Actions` `🔗 Tauri` `🕹️ Bevy` `🪡 Lit & LitElement`
 
 <!-- `⚙️ Rust` `🧶 TypeScript` -->
 
 <br>
 
-*Have worked intensively with/in –*
+*No longer use, but have intensively worked with/in –*
 
-`🍵 Node.js` `🪸 Redux` `🫖 Puppeteer` `🔥 Firebase` `🧪 Polymer`
+`🍵 Node.js` `🪸 Redux` `🫖 Puppeteer` <!-- `🔥 Firebase` `🧪 Polymer 2/3` -->
 
 <br>
 
 
 ### What I've been caught up in
 
-*Working on my own project –*
+*My own projects –*
 
 `💻 Compute`  *WIP*
 
 <br>
 
-*And in projects I am involved in –*
+*Projects I am involved in –*
 
 `📖 Booklet`  *WIP*
 
@@ -41,5 +41,4 @@ Both Rust and TypeScript are at the moment what I use most in my projects. I pre
 
 `📁 Gallery`  *WIP*
 
-[people:amaya]: https://github.com/amaya-brouwers
 [people:milo]: https://github.com/milotheirself
