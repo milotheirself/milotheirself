@@ -25,7 +25,7 @@ At the moment, both Rust and TypeScript find the most use in my projects. I pref
 <br>
 
 
-### What I've been caught up in
+### What I've been up to
 
 *My own projects –*
 
